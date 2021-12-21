@@ -1,0 +1,7 @@
+touch to create textfile
+notepad command to open same file in notepad
+ git status to to know add or commited status
+git add . to add all the files 
+git commit -m "message" t commit a file 
+git log to know status of all commited time and users info
+git status to know status of files to be commited or added 
